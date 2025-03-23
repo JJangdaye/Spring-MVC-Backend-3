@@ -3,7 +3,7 @@
 2. 요구사항 분석 (O)
 3. 상품 도메인 개발 (O)
 4. 상품 서비스 HTML (O)
-5. 상품 목록 - ThymeLeaf
+5. 상품 목록 - ThymeLeaf (O)
 6. 상품 상세
 7. 상품 등록폼
 8. 상품 등록 처리 - @ModelAttribute
