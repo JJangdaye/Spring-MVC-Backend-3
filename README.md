@@ -5,8 +5,8 @@
 4. 상품 서비스 HTML (O)
 5. 상품 목록 - ThymeLeaf (O)
 6. 상품 상세 (O)
-7. 상품 등록폼
-8. 상품 등록 처리 - @ModelAttribute
+7. 상품 등록폼 (O)
+8. 상품 등록 처리 - @ModelAttribute (O)
 9. 상품 수정
 10. PRG : POST/Redirect/Get
 11. RedirectAttributes
