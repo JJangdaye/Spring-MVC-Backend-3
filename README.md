@@ -8,6 +8,6 @@
 7. 상품 등록폼 (O)
 8. 상품 등록 처리 - @ModelAttribute (O)
 9. 상품 수정 (O)
-10. PRG : POST/Redirect/Get
-11. RedirectAttributes
-12. 정리
+10. PRG : POST/Redirect/Get (O)
+11. RedirectAttributes (O)
+12. 정리 (O)
